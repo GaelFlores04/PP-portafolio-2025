@@ -1,0 +1,4 @@
+themes = 'PaperMod'
+baseURL = 'https://github.com/GaelFlores04/PP-portafolio-2025.git'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
